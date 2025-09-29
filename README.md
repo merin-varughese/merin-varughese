@@ -63,5 +63,6 @@ These repos demonstrate my practical application of QA documentation principles:
 ### Let's Connect!
 
 * **[Cover Letter (Introduction)](./CoverLetter.md)**
+* **[View Certifications](./Certifications.md)** ⬅️
 * **LinkedIn:** [https://www.linkedin.com/in/merin-varughese-446036182/](https://www.linkedin.com/in/merin-varughese-446036182/)
 * **Email:** merinvarughese07@gmail.com
