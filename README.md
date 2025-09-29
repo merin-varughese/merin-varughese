@@ -51,10 +51,10 @@ Agile, Scrum, Waterfall, SDLC.
 ### 📁 My Manual QA Portfolio Repositories
 These repos demonstrate my practical application of QA documentation principles:
 
-* [Test Case Repository](https://github.com/YOUR_USERNAME/Manual-QA-Test-Cases) - Sample test cases for an E-commerce Checkout.
-* [Bug Report Repository](https://github.com/YOUR_USERNAME/Manual-QA-Defect-Reports) - Detailed, actionable bug reports.
-* [Test Plan Repository](https://github.com/YOUR_USERNAME/Manual-QA-Test-Plans) - A test plan covering scope, strategy, and environment.
-* [Exploratory Testing Notes](https://github.com/YOUR_USERNAME/Manual-QA-Exploratory-Notes) - Unstructured testing session notes.
+* [Test Case Repository](https://github.com/merin-varughese/Manual-QA-Test-Cases) - Sample test cases for an E-commerce Checkout.
+* [Bug Report Repository](https://github.com/merin-varughese/Manual-QA-Defect-Reports) - Detailed, actionable bug reports.
+* [Test Plan Repository](https://github.com/merin-varughese/Manual-QA-Test-Plans) - A test plan covering scope, strategy, and environment.
+* [Exploratory Testing Notes](https://github.com/merin-varughese/Manual-QA-Exploratory-Notes) - Unstructured testing session notes.
 
 ---
 
