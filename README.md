@@ -1,68 +1,77 @@
-# Hi, I'm Merin Varughese 👋
+<h1 align="center">Hi, I'm Merin Varughese 👋</h1>
 
-### Professional Summary: Dedicated Quality Assurance Analyst
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=0052CC&center=true&vCenter=true&width=430&lines=QA+Analyst;Functional+Tester;Continuous+Learning;Collaboration" alt="Typing SVG" />
+</p>
+
+---
+
+### Professional Summary: Focused on Quality and Detail
 
 A dedicated and experienced **Quality Assurance professional with over five years** of hands-on experience in manual testing. I am proficient in managing the full software testing lifecycle, including designing test strategies, executing test cases, and ensuring robust documentation. I possess strong analytical skills and a proven track record of collaborating with cross-functional teams to deliver high-quality software delivery.
 
 ---
 
-### About Me: The Passion Behind Quality
+### 🛠️ My QA Toolkit & Focus Areas
 
-My passion lies in ensuring an exceptional and reliable user experience. I thrive on the challenge of transforming complex requirements into precise, detailed test cases and meticulously identifying issues that others might overlook.
+This section uses dynamic **skill badges** to visually highlight your technical stack.
 
-**Core Strengths (Soft Skills):**
+**Testing & Methodologies:**
+![Agile](https://img.shields.io/badge/Agile-21510C?style=for-the-badge&logo=agile&logoColor=white)
+![Scrum](https://img.shields.io/badge/Scrum-000000?style=for-the-badge&logo=scrumalliance&logoColor=white)
+![SDLC](https://img.shields.io/badge/SDLC-5C8D89?style=for-the-badge)
+![Regression](https://img.shields.io/badge/Regression-CC5500?style=for-the-badge)
+![UAT](https://img.shields.io/badge/UAT-333333?style=for-the-badge)
+![Cross--Platform](https://img.shields.io/badge/Cross--Platform-006B78?style=for-the-badge)
+
+**Automation & Tools:**
+
+| Tool/Focus | Badges |
+| :--- | :--- |
+| **Copado Automation** | ![Copado Selenium](https://img.shields.io/badge/Copado_Selenium-00BFFF?style=for-the-badge&logoColor=white) |
+| **Back-End/Data** | ![API Testing](https://img.shields.io/badge/API_Testing-F05033?style=for-the-badge) ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=mysql&logoColor=white) |
+| **Defect Management** | ![JIRA](https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge&logo=jira&logoColor=white)|
+| **Documentation** | ![Word](https://img.shields.io/badge/Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white) ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) ![Confluence](https://img.shields.io/badge/Confluence-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=blue)|
+| **Cross-Browser** | ![BrowserStack](https://img.shields.io/badge/BrowserStack-121212?style=for-the-badge&logo=browserstack&logoColor=white) |
+
+---
+
+### 🌟 Soft Skills
+
 * **Analytical Mindset & Attention to Detail:** Proven ability to identify the root cause for issues and use a sharp eye for detail.
-* **Cross-functional Communication and Collaboration:** Experienced in collaborating with developers, business analysts, and key stakeholders in Agile Scrum environments.
-* **Documentation Skills:** Skilled in creating clear, comprehensive test documentation (Test Cases, Strategies, Reports).
-
----
-
-### Professional Experience & Key Achievements
-
-My experience spans global teams, including roles at Capgemini, SADAD Electronic Payment System, The Lenbrook Group, and TESTIO.
-
-| Company & Role | Duration | Key Responsibilities & Achievements |
-| :--- | :--- | :--- |
-| **SOFTWARE TESTER (FREELANCER), TESTIO (Remote)** | Jun 2024 - Nov 2024 | Performed functional, UI, and **cross-platform compatibility testing** on various web and mobile projects. Accurately documented and reported bugs with clear steps to reproduce. |
-| **TECHNICAL ANALYST, The Lenbrook Group (CANADA)** | Feb 2024 - May 2024 | Provided subject matter expertise in areas like web and mobile apps, audio quality, and network performance. Identified, reported, and collaborated to resolve bugs on JIRA and issues on BluOS Application. |
-| **QA ANALYST, SADAD Electronic Payment System (BAHRAIN)** | Dec 2020 - Jul 2022 | Managed and tested multiple projects simultaneously, including Self-service Kiosks, Web Application, and Mobile. Performed **API Testing** across all projects. Used **SQL to retrieve and validate data** for banking projects. |
-| **SENIOR QA ANALYST, Capgemini (INDIA)** | Jul 2017 - Nov 2020 | **Performed both manual testing and automation (copado selenium with BrowserStack)** on web/mobile applications. Achieved a **30% reduction in regression testing time** by utilizing automated test suites. Led to a **20% reduction in pre-production defects** through early feedback in Scrum ceremonies. |
-
----
-
-### QA Toolkit
-
-#### Testing Methodologies
-Agile, Scrum, Waterfall, SDLC.
-
-#### Testing Focus & Types
-* Smoke Testing, Regression Testing, Back-End, and Front-End Testing.
-* Functional, UI, and Cross-Platform Compatibility Testing.
-* Data Integrity & Validation, UX Optimization, and UAT.
-
-#### Tools & Platforms
-* **Defect/Test Management:** JIRA, Confluence.
-* **Database/API:** SQL (basic) for data validation, API Testing.
-* **Automation (Experience):** Copado Selenium, BrowserStack (for cross-browser/device testing).
-* **Platforms:** Android, iOS, Windows, Mac.
+* **Cross-functional Collaboration:** Experienced in working closely with developers, product owners, and business analysts in Agile Scrum environments.
+* **Strong Documentation Skills:** Highly proficient in creating clear, comprehensive test documentation (Test Cases, Strategies, Reports).
+* **Proactive Learning:** Demonstrated commitment to continuous learning and rapidly acquiring new technical skills (e.g., Copado Selenium and API Testing).
 
 ---
 
 ### 📁 My Manual QA Portfolio Repositories
-These repos demonstrate my practical application of QA documentation principles:
 
-* [Test Case Repository](https://github.com/merin-varughese/Manual-QA-Test-Cases) - Sample test cases for an E-commerce Checkout.
-* [Bug Report Repository](https://github.com/merin-varughese/Manual-QA-Defect-Reports) - Detailed, actionable bug reports.
-* [Test Plan Repository](https://github.com/merin-varughese/Manual-QA-Test-Plans) - A test plan covering scope, strategy, and environment.
+These repositories contain general, high-quality documentation that showcases my core testing skills, adaptable to any project or domain.
 
-
----
+* [Test Case Documentation](https://github.com/merin-varughese/Manual-QA-Test-Cases) - Demonstrates my skill in designing detailed, structured test scenarios.
+* [Defect Reporting](https://github.com/merin-varughese/Manual-QA-Defect-Reports) - Focuses on creating clear, actionable, and high-priority bug reports.
+* [Test Plan & Strategy](https://github.com/merin-varughese/Manual-QA-Test-Plans) - Outlines my ability to define scope, strategy, and environment setup.
 
 ---
 
-### Let's Connect!
+### 🗂️ Credentials & Contact
 
-* **[Cover Letter (Introduction)](./CoverLetter.md)**
-* **[View Certifications](./Certifications.md)** ⬅️
-* **LinkedIn:** [https://www.linkedin.com/in/merin-varughese-446036182/](https://www.linkedin.com/in/merin-varughese-446036182/)
-* **Email:** merinvarughese07@gmail.com
+* **[Read My Introduction (Cover Letter)](./CoverLetter.md)**
+* **[View Professional Certifications](./Certifications.md)**
+
+ <p align="center">
+  <a href="https://www.linkedin.com/in/merin-varughese-446036182/">
+    <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" />
+  </a>
+  <a href="mailto:merinvarughese07@gmail.com">
+    <img src="https://img.icons8.com/color/48/000000/gmail.png" alt="Email" />
+  </a>
+</p>
+
+---
+<p align="center">
+  <img src="https://media.giphy.com/media/KNUhETKTx63XgYHBt1/giphy.gif" alt="QA Swatting a Bug" width="300" />
+  <br>
+  <b>Catching Bugs & Delivering Quality</b>
+</p>
