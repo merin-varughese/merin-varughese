@@ -14,7 +14,6 @@ A dedicated and experienced **Quality Assurance professional with over five year
 
 ### 🛠️ My QA Toolkit & Focus Areas
 
-This section uses dynamic **skill badges** to visually highlight your technical stack.
 
 **Testing & Methodologies:**
 ![Agile](https://img.shields.io/badge/Agile-21510C?style=for-the-badge&logo=agile&logoColor=white)
@@ -41,11 +40,11 @@ This section uses dynamic **skill badges** to visually highlight your technical 
 * **Analytical Mindset & Attention to Detail:** Proven ability to identify the root cause for issues and use a sharp eye for detail.
 * **Cross-functional Collaboration:** Experienced in working closely with developers, product owners, and business analysts in Agile Scrum environments.
 * **Strong Documentation Skills:** Highly proficient in creating clear, comprehensive test documentation (Test Cases, Strategies, Reports).
-* **Proactive Learning:** Demonstrated commitment to continuous learning and rapidly acquiring new technical skills (e.g., Copado Selenium and API Testing).
+* **Proactive Upskilling:** Demonstrated commitment to continuous learning and rapidly acquiring new technical skills (e.g., Copado Selenium).
 
 ---
 
-### 📁 My Manual QA Portfolio Repositories
+### 📁 Manual QA Artifacts (Repository Samples)
 
 These repositories contain general, high-quality documentation that showcases my core testing skills, adaptable to any project or domain.
 
